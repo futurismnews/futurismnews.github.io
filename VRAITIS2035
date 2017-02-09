@@ -1,0 +1,84 @@
+
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <title>Futurism News
+    </title>
+    <link href="FuturismStyle.css" rel="stylesheet" type="text/css" />
+  </head>
+
+
+  <body>
+    <div class="header">
+
+    <a href = "index"><img class = "logo" src="FuturismNewsLogo.PNG" /></a>
+
+  </div>
+
+<div class= "slogan">
+
+    <p>Tomorrow's Headlines, Today</p>
+
+</div>
+
+    <div class="nav">
+      <ul>
+      <li><a href = "About">About Us</a></li>
+      <li><a href = "space">Space</a></li>
+      <li><a href = "newrealities">New Realities</a></li>
+      <li><a href = "transnhumanism">Transhumanism</a></li>
+      <li><a href = "artificialintelligence">Artificial Intelligence</a></li>
+      <li><a href = "climateandenergy">Climate and Energy</a></li>
+      <li><a href = "economics">Economics</a></li>
+      <li><a href = "governance">Governance</a></li>
+
+      </ul>
+    </div>
+    <br>
+
+
+
+
+    <div class="col1">
+<h2> U.N. Public health hearings to start Wednesday as Virtual Reality addiction epidemic spreads</h2>
+<p>
+  3/25/2035
+</p>
+<img id ="newsphoto" src ="VRAITISmeeting.jpg">
+
+<p>
+	Public hearings on the VR addiction epidemic are planned to convene this Wednesday as public health officials respond to concerns of tens of millions of across the world who have lost contact with family and friends afflicted with the syndrome. Officials claim it is the worst addiction since the opium epidemics that crippled China in the 18th century.
+ </p>
+
+ <p>It is estimated that tens of millions of people across the world now live their lives solely in isolated virtual space; their only interaction with artificial intelligent simulations in their virtual environments. It is expected that proposals for more aggressive laws to ban or limit the use of the technology will be presented at the UN meeting, with those that support the laws pointing to studies showing severe health affects the addiction causes; including severely degraded physical strength, depression, and anxiety outside of virtual space and the development of social disorders.</p>
+<p>Most individuals who are afflicted with the syndrome keep their physical bodies suspended in recently developed hydro capsules, attached to IVs to keep them nourished and hydrated and on a regular dose of drugs that produce a light paralysis and numbing affect while attached.</p>
+<p>Virtual Reality has undergone rapid advancement in the past decade with the technology now indistinguishable in all 5 senses with the use of spinal sensory plug in which feeds the experience directly to the user’s central nervous system.</p>
+ <p>The syndrome has had the most dramatic impact on the 3rd world economies and lower classes as virtual reality simulations offer individuals the capacity to live a standard of living and life-style vastly greater than they would likely achieve in the real world, many even opting for self-designed fantasy world where they are rock stars or billionaires.</p>
+ <p>Reality Right’s advocates held marches outside the UN prior to the meeting; the message nearly unanimous among participants: any limitations on the technology or use of it would be an affront to personal liberties and privacy. </p>
+ <p>One individual who chose to stay anonymous argued that the new realities being generated were as real and legitimate as physical space. “We live in an era where we now literally create our reality. Who is to say that any one individuals personally designed reality is any less real or legitimate than the initial reality we were born in to? The initial reality we were born in to could be just as much an illusion as the realities we now choose to live in.”<p>
+
+
+    </div>
+
+
+
+    <div class="col2">
+        <div "sidearticle">
+          <h4>
+            Breakthrough in nano-technology could repair dying cells
+          </h4>
+          <p>
+          Daniel Mcgee
+        </p>
+          <p>
+          What researches at the Univesity of whatchamacallit are saying is that
+          is there is unprecedented. blah a;fjd;skfas;kfaasd asd fasd f asd f sdaf
+           sdaf asd f sda fsda fa sdf dsazfdsafsa  a dsfasdf
+         </p>
+       </div>
+    </div>
+
+
+
+  </body>
+</html>
