@@ -1,0 +1,74 @@
+
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <title>Futurism News
+    </title>
+    <link href="practice.css" rel="stylesheet" type="text/css" />
+  </head>
+
+
+  <body>
+    <div class="header">
+
+    <a href = "practice.css"><img src="FuturismNewsLogo.PNG" /></a>
+
+  </div>
+
+
+    <div class="nav">
+      <ul>
+      <li><a href = "About">About Us</a></li>
+      <li><a href = "space">Space</a></li>
+      <li><a href = "newrealities">New Realities</a></li>
+      <li><a href = "transnhumanism">Transhumanism</a></li>
+      <li><a href = "artificialintelligence">Artificial Intelligence</a></li>
+      <li><a href = "climateandenergy">Climate and Energy</a></li>
+      <li><a href = "economics">Economics</a></li>
+      <li><a href = "governance">Governance</a></li>
+
+      </ul>
+    </div>
+    <br>
+
+
+
+
+    <div class="col1">
+<h2> U.N. Public health hearings continue as global VRAITIS epidemic spreads </h2>
+<p>
+  3/25/2035
+</p>
+<img id ="newsphoto" src ="VRAITISmeeting.jpg">
+
+<p>Public hearings on VRAITIS, Virtual Reality Addiction Induced Total Isolation Syndrome, continued through Wednesday this week as public health officials respond to concerns of millions of across the world who have lost contact with family and friends afflicted with the syndrome. Experts in the fields of computer science, neurology, and sociology, among others, met before world leaders in the hopes of developing a way to get the millions lost to the digital coma back in to normal society while also respecting the demands of Reality Rights advocates across the globe. </p>
+<br>
+<p>
+	The syndrome has had the most dramatic impact on the 3rd world economies and lower classes as virtual reality simulations, now indistinguishable from normal reality in all 5 senses, offers individuals the capacity to live a standard of living and life-style vastly greater than they would likely achieve in the real world, many even opting for self-designed fantasy world where they are rock stars or billionaires.
+</p>
+<a href = "VRAITISstory"><p>Read More...</p></a>
+
+    </div>
+
+
+
+    <div class="col2">
+        <div "sidearticle">
+          <h4>
+            Breakthrough in nano-technology could repair dying cells
+          </h4>
+          <p>
+          Daniel Mcgee
+        </p>
+          <p>
+          What researches at the Univesity of whatchamacallit are saying is that
+          is there is unprecedented. blah a;fjd;skfas;kfaasd asd fasd f asd f sdaf
+           sdaf asd f sda fsda fa sdf dsazfdsafsa  a dsfasdf
+         </p>
+       </div>
+    </div>
+
+
+
+  </body>
+</html>
