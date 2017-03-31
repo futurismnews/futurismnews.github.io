@@ -43,7 +43,7 @@
   <a href="VRAITIS2035">
      <div class="story1">
        <div class="image">
-         <img id="story1image"  src = "VRcapsule.jpg" />
+         <img id="story1image"  <!-src = "VRcapsule.jpg"- />
           <div class="headlines">
          <h2 id="story1-hl1"><span>VR addiction epidemic spreads across globe</span></h2>
          <p id="story1-hl2"><span>UN calls public health hearing</span></p>
