@@ -12,10 +12,12 @@ background: #ffffff;
 
 
 }
+
 .logo {
   margin-left: 5%;
   margin-bottom: 0px;
 }
+
 .nav {
  background-color: #006699;
 display: inline-block;
@@ -29,7 +31,6 @@ float:left;
   box-shadow: 3px 3px 3px grey;
   font-family: Arial;
   font-style:none;
-
 }
 
 .slogan {
@@ -65,9 +66,6 @@ li {
   border: none;
   border-width: 1px;
   font-weight: bolder;
-
-
-
 }
 
 li:hover {
@@ -141,20 +139,17 @@ font-family: Arial;
 
 
 .image  {
-  position: relative;
- width: 400px;
+ position: relative;
 
-}
-
-.story1 {
-display:inline-block;
-font-size: 20px;
-float: left;
+ display:inline-block;
+ font-size: 20px;
+ float: left;
 }
 
 #story1image {
- height: 300px;
-background-size: auto;
+height: 300px;
+width: 400px;
+size: auto;
 }
 
 .headlines {
@@ -203,10 +198,6 @@ float:left;
 
 }
 
-#story1image {
- width: 400px ;
-}
-
 .headlinedate {
   font-size:16px;
 }
@@ -228,4 +219,17 @@ margin-left: 60px;
     margin-bottom: 0px;
     size: 50%;
   }
+  .image  {
+   position: relative;
+   display:inline-block;
+   font-size: 20px;
+   float: left;
+  }
+
+  #story1image {
+  height: 300px;
+  width: 80%;
+  size: auto;
+  }
+
 	}
