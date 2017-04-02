@@ -13,7 +13,7 @@ background: #ffffff;
 
 }
 .logo {
-  margin-left: 34%;
+  margin-left: 5%;
   margin-bottom: 0px;
 }
 .nav {
@@ -217,4 +217,15 @@ float:left;
 margin-left: 60px;
 }
 
-/*https://media.giphy.com/media/PACsnvGXfzg1a/giphy.gif
+
+@media only screen and (max-device-width: 480px) {
+  #story1image {
+   width: 80%;
+  }
+
+  .logo {
+    margin-left: 5%;
+    margin-bottom: 0px;
+    size: 50%;
+  }
+	}
