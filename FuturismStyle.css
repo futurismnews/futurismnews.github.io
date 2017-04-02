@@ -209,7 +209,7 @@ margin-left: 60px;
 }
 
 
-@media only screen and (max-device-width: 480px) {
+@media (max-device-width: 480px) {
   .story1image {
    width: 460px;
   }
@@ -219,6 +219,7 @@ margin-left: 60px;
     margin-bottom: 0px;
     size: 50%;
   }
+
   .image  {
    position: relative;
    display:inline-block;
