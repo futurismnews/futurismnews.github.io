@@ -222,14 +222,14 @@ margin-left: 60px;
   .image  {
    position: relative;
    display:inline-block;
-   font-size: 20px;
+   font-size: 50px;
    float: left;
   }
 
   #story1image {
   height: 65%;
   width: 95%;
-  size: auto;
+
   }
 
 	}
