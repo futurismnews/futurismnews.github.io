@@ -1,4 +1,4 @@
-@media only (max-width: 768px) {
+@media screen and (max-width: 768px) {
 
 /* --------------FOR TOP HEADER---------------------------------------- */
 .header {
@@ -94,7 +94,7 @@ size: 50%;
 
 
 
-  @media (max-width: 1200px) {
+  @media screen and (max-width: 1200px) {
     .col2 {
       display: none;
     }
