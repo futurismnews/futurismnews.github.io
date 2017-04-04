@@ -1,7 +1,6 @@
 
- @media only screen and (max-width: 768px)
+ @media only screen and (max-width: 768px) {
 
-{
 
 /* --------------FOR TOP HEADER---------------------------------------- */
 .header {
@@ -11,7 +10,6 @@
 .logo {
 margin-left: 5%;
 margin-bottom: 0px;
-size: 50%;
 }
 
 /* --------------FOR NAVIGATION BAR---------------------------------------- */
@@ -95,18 +93,10 @@ size: 50%;
     margin-right: 90px;
   }
 
-
-
-  @media screen and (max-width: 1200px) {
-    .col2 {
-      display: none;
-    }
-  }
-
 /* --------------INDEX PAGE / MAIN STORIES---------------------------------------- */
 .image  {
  position: relative;
- display:inline-block;
+ display: block;
  font-size: 18px;
  float: left;
  height: 65%;
@@ -145,7 +135,7 @@ margin-left: 60px;
   float:left;
   }
 
-  #story1-hl2 span{
+  #story1-hl2 span {
     margin: 0;
     font-size: 15px;
       font: Helvetica, Sans-Serif;
@@ -173,6 +163,12 @@ margin-left: 60px;
 
 
 @media only screen and (min-width: 768px) {
+
+  @media screen and (max-width: 1200px) {
+    .col2 {
+      display: none;
+    }
+  }
 
   body {
     background: #e6e6ff;
@@ -280,6 +276,7 @@ margin-left: 60px;
       font-family: geometria;
       src: url(C:\Users\Zach\Desktop\Atom Programs\fonts\Geometria Light-Webfont);
   }
+
   .col1 p {
   font-size: 20px;
   font-family: geometria;
@@ -314,7 +311,6 @@ margin-left: 60px;
 
   .image  {
    position: relative;
-
    display:inline-block;
    font-size: 20px;
    float: left;
@@ -356,9 +352,7 @@ margin-left: 60px;
       background: rgb(0, 0, 0); /* fallback color */
       background: rgba(0, 0, 0, 0.7);
       padding: 5px;
-
       float:left;
-
   }
 
   #story1-hldate span {
@@ -369,7 +363,6 @@ margin-left: 60px;
       background: rgba(0, 0, 0, 0.7);
       padding: 5px;
       float:left;
-
   }
 
   .headlinedate {
