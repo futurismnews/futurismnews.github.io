@@ -99,13 +99,15 @@ margin-bottom: 0px;
  display: block;
  font-size: 18px;
  float: left;
- height: 65%;
- width: 95%;
+
+ width: 98%;
+
+height: auto;
  clear: left;
 }
 
 .story1image {
-height: 65%;
+height: auto;
 width: 95%;
 }
 
