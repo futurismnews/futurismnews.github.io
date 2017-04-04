@@ -101,6 +101,7 @@ margin-bottom: 0px;
  float: left;
  height: 65%;
  width: 95%;
+ clear: left;
 }
 
 .story1image {
