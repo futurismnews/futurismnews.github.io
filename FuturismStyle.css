@@ -96,12 +96,8 @@ margin-bottom: 0px;
 /* --------------INDEX PAGE / MAIN STORIES---------------------------------------- */
 .image  {
  position: relative;
-
- font-size: 18px;
-
-
+font-size: 18px;
  width: 98%;
-
 height: auto;
  clear: left;
 }
@@ -122,7 +118,7 @@ margin-left: 60px;
     left: 0px;
     font-family: Helvetica, Sans-Serif;
     color: white;
-    margin:0;
+    margin:0 0 30px;
     padding: 0;
   }
 
