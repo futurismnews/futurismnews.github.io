@@ -97,14 +97,14 @@ margin-bottom: 0px;
 .image  {
  position: relative;
 font-size: 18px;
- width: 98%;
-height: auto;
+
  clear: left;
 }
 
 .story1image {
-height: 300px;
 width: 95%;
+height: 300px;
+
 }
 
 .mainfeature {
