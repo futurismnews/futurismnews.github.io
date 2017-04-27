@@ -98,12 +98,12 @@ margin-bottom: 0px;
  position: relative;
 font-size: 18px;
  width: 98%;
-height: 66%;
+height: auto;
  clear: left;
 }
 
 .story1image {
-height: 66%;
+height: auto;
 width: 95%;
 }
 
@@ -114,11 +114,11 @@ margin-left: 60px;
   .headlines {
     position: absolute;
     width: 80%;
-    top: 60px;
+    top: 30px;
     left: 0px;
     font-family: Helvetica, Sans-Serif;
     color: white;
-    margin:0 0 30px;
+    margin:0 0 10px;
     padding: 0;
   }
 
