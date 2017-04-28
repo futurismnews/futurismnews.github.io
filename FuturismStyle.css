@@ -3,9 +3,8 @@
 
 
 /* --------------FOR TOP HEADER---------------------------------------- */
-#storylogo {
-display: none;
-}
+
+
 
 .header {
   background-color:ffffff;
@@ -65,7 +64,7 @@ margin-bottom: 0px;
   }
 
 #newsphoto {
-width: 98%;
+width: 95%;
 height: auto;
 }
 
