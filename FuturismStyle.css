@@ -11,6 +11,9 @@
 .logo {
 margin-left: 0%;
 margin-bottom: 0px;
+}
+
+.storylogo {
 display: none;
 }
 
@@ -93,7 +96,7 @@ height: auto;
   .col2 {
     background-color:#e6f2ff;
     width: 15%;
-    display: inline-block;
+    display: none;
     float:left;
     height: auto;
     border:none;
@@ -183,6 +186,10 @@ height: 250px;
 
   .header {
   background: #ffffff;
+  }
+
+  #mobileheader {
+display: none;
   }
 
   .logo {
