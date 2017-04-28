@@ -313,14 +313,15 @@ height: 250px;
   }
 
  .story1image {
-  height: 200px;
-  width: 300px;
+  width: 400px;
+  height: 300px;
+
   }
 
   .headlines {
     position: absolute;
     width: 80%;
-    top: 60px;
+    top: 90px;
     left: 0px;
     font-family: Helvetica, Sans-Serif;
     color: white;
@@ -373,8 +374,5 @@ height: 250px;
   }
 
 
-  .story1image {
-   width: 460px;
-  }
 
 	}
